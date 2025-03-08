@@ -1,1 +1,1 @@
-# SCT_WD_4
+Task 4 of my internship at SkillCraft: A basic yet functional To-Do App that helps users efficiently manage their tasks. Features include: Adding and organizing tasks into lists. Editing tasks with a due date and time. Marking tasks as completed. Built with HTML, CSS, and JavaScript for a seamless user experience!
